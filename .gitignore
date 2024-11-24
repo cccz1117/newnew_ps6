@@ -1,9 +1,1 @@
-*
-
-!*.pdf
-!*.qmd
-!top_alerts_map/
-!top_alerts_map_byhour/
-!top_alerts_map_sliderrange/
-!plots/
-!.gitignore
+top_alerts_map_sliderrange
